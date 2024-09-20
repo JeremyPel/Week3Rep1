@@ -17,6 +17,7 @@ public class WeekThreeProject {
     public static void main(String[] args) {
         System.out.println("Hello there");
         System.out.println("This was added REMOTELY on GITHUB woah");
+        System.out.println("This was FETCHED from GITHUB, FETCHED");
     }
 
 }
