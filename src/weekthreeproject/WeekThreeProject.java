@@ -18,7 +18,7 @@ public class WeekThreeProject {
         System.out.println("Hello there");
         System.out.println("This was added REMOTELY on GITHUB woah");
         System.out.println("This was FETCHED from GITHUB, FETCHED");
-        System.out.println("Created branch Demo1");
+        System.out.println("Created branch Demo1"); //now merged with demo branch
     }
 
 }
